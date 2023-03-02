@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668353193 source:c:\users\jakub\desktop\all\c++\hanoi\bicolourhanoi\bicolourhanoitower\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+
